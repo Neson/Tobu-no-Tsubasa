@@ -13,6 +13,7 @@
 .LSOverride
 .Spotlight-V100
 .Trashes
+*.SyncPart
 
 # Windows
 Thumbs.db
